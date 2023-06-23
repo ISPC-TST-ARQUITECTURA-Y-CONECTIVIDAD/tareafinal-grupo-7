@@ -17,7 +17,7 @@
 # $$\textcolor{green}{Tarea\ Final:}$$
 
 # $\textcolor{green}{Módulo\ IV:}$
-ñ
+
 # $\textcolor{red}{Arquitectura\ en\ Redes\ IoT -\ Enrutamiento}$
 # $\textcolor{red}{Sistemas\ de\ Localización\ (GNSS)\ –\ Proyecto\ Final }$
 
