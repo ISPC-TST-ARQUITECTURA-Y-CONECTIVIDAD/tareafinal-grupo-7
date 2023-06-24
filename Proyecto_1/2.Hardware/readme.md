@@ -69,6 +69,7 @@ El módulo GPS NEO-6M es un dispositivo GPS (Sistema de Posicionamiento Global) 
 
 Es importante tener en cuenta que el módulo GPS NEO-6M requiere una conexión adecuada a satélites GPS para proporcionar datos precisos de ubicación. Además, puede requerir una configuración inicial y una correcta interpretación de los datos para obtener resultados óptimos en el uso del módulo.
 
+![image](https://github.com/ISPC-TST-ARQUITECTURA-Y-CONECTIVIDAD/tareafinal-grupo-7/assets/46485082/df5e523f-6b7a-4a7d-82cc-0ba05e31c5f1)
 
 
 
