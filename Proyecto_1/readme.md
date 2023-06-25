@@ -3,7 +3,7 @@
 ## $\textcolor{orange}{Proyecto:\ Sistema\ Global\ de\ Navegación\ Satelital\ (GNSS)}$
 
 
-El proyecto consiste en la Implementacion de  un Sistema Global de Navegación Satelital (GNSS) , usando un ESP32 y un modulo GPS. Los datos de posisionamiento son enviados al Broker MQTT para que puedan ser mostrados en forma geolocalizada sobre un mapa en forma on line.
+El proyecto consiste en la Implementacion de  un Sistema Global de Navegación Satelital (GNSS) , usando un ESP32 y un modulo GPS. Los datos de posisionamiento son enviados al Broker MQTT para que puedan ser mostrados en forma geolocalizada sobre un mapa de forma online.
 
 
 ## $\textcolor{orange}{Consignas: }$
