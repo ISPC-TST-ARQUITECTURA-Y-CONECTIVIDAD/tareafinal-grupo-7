@@ -118,12 +118,17 @@ El protoboard y los jumpers son ampliamente utilizados por estudiantes, aficiona
 
 ## $\textcolor{orange}{Prototipo:}$
 
+En el prototipo implementado no se pudo utilizar el Display OLED, por lo tanto solo esta presente en el mismo.
+
 
 ![image](https://github.com/ISPC-TST-ARQUITECTURA-Y-CONECTIVIDAD/tareafinal-grupo-7/assets/46485082/1065670b-52b3-4000-9e6f-53f7da4d37fa)
 
+
 ![image](https://github.com/ISPC-TST-ARQUITECTURA-Y-CONECTIVIDAD/tareafinal-grupo-7/assets/46485082/00293bee-d040-469d-9eee-72791533cc07)
 
-Prueba de campo del prototipo:
+
+## $\textcolor{orange}{Prueba\ de\ campo\ del\ prototipo:}$
+
 
 ![image](https://github.com/ISPC-TST-ARQUITECTURA-Y-CONECTIVIDAD/tareafinal-grupo-7/assets/46485082/29728671-f42f-4f39-b479-a6d103da981f)
 
