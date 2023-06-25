@@ -3,5 +3,14 @@
 
 
 
+## $\textcolor{orange}{Simulacion\ del\ Proyecto\ (GNSS)}$
+
+Debido a que para la simulacion solicitada no se encontraron las librerias adecuadas, se propone una simulacion de envio de datos de posicion a traves de GSM, para ello se utiliza Proteus, un modulo Arduino Uno, un modulo GPS y un modulo GSM (SIM900).
+La idea es poder ver como se pueden enviar datos de posicionamiento de un GPS a traves de un modulo SIM900 de GSM.
+
+## $\textcolor{orange}{Esquema :}$
+
+
+
 
 ![Proteus](https://github.com/ISPC-TST-ARQUITECTURA-Y-CONECTIVIDAD/tareafinal-grupo-7/assets/46485082/84a80efe-2193-4104-8d3b-d4bd1a8bea42)
