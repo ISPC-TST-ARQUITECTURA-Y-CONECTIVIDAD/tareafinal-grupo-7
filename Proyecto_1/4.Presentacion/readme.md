@@ -2,7 +2,8 @@
 
 Para la implementacion del proyecto se utilizo el Broker AskSensors:
 
-![image](https://github.com/ISPC-TST-ARQUITECTURA-Y-CONECTIVIDAD/tareafinal-grupo-7/assets/46485082/e28f134b-d331-437d-899f-9d6c39043cb1)
+![image](https://github.com/ISPC-TST-ARQUITECTURA-Y-CONECTIVIDAD/tareafinal-grupo-7/assets/46485082/78b6bdde-f97c-4add-9c64-2bbe57538cdc)
+
 
 Se realizo un traceo del dispositivo ubicandose este en un vahiculo, para esta prueba se utiliza la conectividad WiFi del celular. Para un desarrollo a escala es evidente que se debe utilizar un modulo de comunicacion 3G/LTE.
 
