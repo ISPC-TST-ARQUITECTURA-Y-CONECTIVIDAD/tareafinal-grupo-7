@@ -1,8 +1,11 @@
 ## $\textcolor{orange}{Codigo:}$
 
-Se realizaron pruebas en diferentes codigos.
+Se realizaron pruebas en diferentes codigos, los mismos se suben al repositorio.
 
-> __Note__ : Se agrega codigo en C++.
+Se sube el codigo utilizado para el proyecto. 
+
+
+> __Note__ : Se agrega codigo en C++ del proyecto final.
 
 ```c++
 
