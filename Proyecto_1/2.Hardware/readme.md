@@ -116,4 +116,22 @@ El protoboard y los jumpers son ampliamente utilizados por estudiantes, aficiona
 
 ![image](https://github.com/ISPC-TST-ARQUITECTURA-Y-CONECTIVIDAD/tarea7-grupo-7/assets/46485082/0955a03a-db81-4c7f-8938-6a222c2aed72)
 
+## $\textcolor{orange}{Prototipo:}$
+
+
+![image](https://github.com/ISPC-TST-ARQUITECTURA-Y-CONECTIVIDAD/tareafinal-grupo-7/assets/46485082/1065670b-52b3-4000-9e6f-53f7da4d37fa)
+
+![image](https://github.com/ISPC-TST-ARQUITECTURA-Y-CONECTIVIDAD/tareafinal-grupo-7/assets/46485082/00293bee-d040-469d-9eee-72791533cc07)
+
+Prueba de campo del prototipo:
+
+![image](https://github.com/ISPC-TST-ARQUITECTURA-Y-CONECTIVIDAD/tareafinal-grupo-7/assets/46485082/29728671-f42f-4f39-b479-a6d103da981f)
+
+![image](https://github.com/ISPC-TST-ARQUITECTURA-Y-CONECTIVIDAD/tareafinal-grupo-7/assets/46485082/3d3567b9-ddda-4748-9577-a1750178e3ea)
+
+
+
+
+
+
 
