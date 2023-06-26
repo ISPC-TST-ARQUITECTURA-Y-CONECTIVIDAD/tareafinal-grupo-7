@@ -11,6 +11,7 @@ La idea es poder ver como se pueden enviar datos de posicionamiento de un GPS a 
 ## $\textcolor{orange}{Esquema :}$
 
 
+![image](https://github.com/ISPC-TST-ARQUITECTURA-Y-CONECTIVIDAD/tareafinal-grupo-7/assets/46485082/e3affd66-660a-4e6d-9109-c6ede3588b92)
 
 
-![Proteus](https://github.com/ISPC-TST-ARQUITECTURA-Y-CONECTIVIDAD/tareafinal-grupo-7/assets/46485082/84a80efe-2193-4104-8d3b-d4bd1a8bea42)
+
