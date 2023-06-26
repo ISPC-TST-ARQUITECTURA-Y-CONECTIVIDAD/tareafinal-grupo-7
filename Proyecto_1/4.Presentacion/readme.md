@@ -18,3 +18,4 @@ El resultado del traceo esta  en la siguiente captura:
 
 ## $\textcolor{orange}{Video\ :}$
 
+https://clipchamp.com/watch/SW7SZktCNgy
